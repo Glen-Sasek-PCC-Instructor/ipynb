@@ -1,3 +1,3 @@
 # ipynb
 
-Fork and run
+Fork, create a codespace, and run
